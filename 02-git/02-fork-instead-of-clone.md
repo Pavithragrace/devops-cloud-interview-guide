@@ -22,7 +22,7 @@ From there:
 2. Created a new feature branch feature/update-terraform-tags, made the fix, committed the changes.
 3. Pushed the branch to **my fork**:
    ```bash
-   git push origin bugfix-helm-values
+   git push -u origin feature/update-terraform-tags
    ```
 4. Finally, I submitted a **pull request** to the original repository.
 
